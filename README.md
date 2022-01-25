@@ -1,4 +1,4 @@
-wget https://raw.githubusercontent.com/FastVN/D/main/io-stresser.js
+wget https://raw.githubusercontent.com/tienquan2019/2022/main/io-stresser.js
 npm install axios
 npm install request
 npm install fake-useragent
